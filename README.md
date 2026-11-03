@@ -221,12 +221,20 @@ Potential enhancements to the application include:
 
 ---
 
-**Author**
+## Author
 
 **Rammal Ahmed**
 
-AI & Data Science Enthusiast | Microsoft Dynamics 365 CRM Developer | UI/UX Designer | Graphic Designer & Illustrator | Power Platform
+AI & Data Science Enthusiast | Microsoft Dynamics 365 CRM Developer | Power Platform | UI/UX Designer | Graphic Designer & Illustrator
 
 [LinkedIn] www.linkedin.com/in/rammal-ahmed-58184b325 · [GitHub] https://github.com/Rammal-Ahmed
 
-Project Status: Completed
+---
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+**Project Status:** Completed
